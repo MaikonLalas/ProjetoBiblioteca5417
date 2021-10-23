@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maikon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maikon\\.nuget\\packages"
+    ]
+  }
+}
