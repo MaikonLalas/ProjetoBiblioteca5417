@@ -22,7 +22,6 @@ namespace Biblioteca.Controllers
         public IActionResult Index()
         {
             Autenticacao.CheckLogin(this);
-            ViewData["mensagem"] = "Seja bem vindo ao distema de controle de empréstimo de livros";
             return View();
         }
 
@@ -34,14 +33,15 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Login(string login, string senha)
         {
-            if (Autenticacao.verificaLoginSenha(login, senha, this))
+            if(login != "admin" || senha != "123")
             {
-                return RedirectToAction("Index");
+                ViewData["Erro"] = "Senha inválida";
+                return View();
             }
             else
             {
-                ViewData["Erro"] = "Senha Inválida";
-                return View();
+                HttpContext.Session.SetString("user", "admin");
+                return RedirectToAction("Index");
             }
         }
 

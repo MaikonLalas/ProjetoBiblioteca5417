@@ -51,12 +51,6 @@ C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netco
 C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
-C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
-C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
-C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
-C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
-C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
-C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
 C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\TESTE\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\TESTE\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Maikon\Desktop\SENAC - CURSO\UC07\Atividades\TESTE\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
