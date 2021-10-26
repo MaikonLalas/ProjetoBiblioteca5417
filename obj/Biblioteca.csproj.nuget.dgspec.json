@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\TESTE\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\TESTE\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\TESTE\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\TESTE\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Maikon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Maikon\\Desktop\\SENAC - CURSO\\UC07\\Atividades\\TESTE\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maikon\\AppData\\Roaming\\NuGet\\NuGet.Config"
