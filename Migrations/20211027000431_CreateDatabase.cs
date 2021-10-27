@@ -24,6 +24,22 @@ namespace Biblioteca.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "usuarios",
+                columns: table => new
+                {
+                    Id = table.Column<int>(nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    Nome = table.Column<string>(nullable: true),
+                    login = table.Column<string>(nullable: true),
+                    senha = table.Column<string>(nullable: true),
+                    tipo = table.Column<int>(nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_usuarios", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Emprestimos",
                 columns: table => new
                 {
@@ -57,6 +73,9 @@ namespace Biblioteca.Migrations
         {
             migrationBuilder.DropTable(
                 name: "Emprestimos");
+
+            migrationBuilder.DropTable(
+                name: "usuarios");
 
             migrationBuilder.DropTable(
                 name: "Livros");
