@@ -24,7 +24,7 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Cadastro(CadEmprestimoViewModel viewModel)
         {
-            if (string.IsNullOrEmpty(viewModel.Emprestimo.NomeUsuario))
+            if (!string.IsNullOrEmpty(viewModel.Emprestimo.NomeUsuario))
             {
 
                 EmprestimoService emprestimoService = new EmprestimoService();
